@@ -1,0 +1,10 @@
+ /node_modules
+    /vendor
+    /storage/*.key
+    .env
+    .env.backup
+    .env.production
+    .git
+    .github
+    tests/
+    phpunit.xml
